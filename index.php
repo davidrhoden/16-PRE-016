@@ -80,7 +80,7 @@ switch ($i) {
         echo "AT_T_All_Eyes_on_You_30_070615.mov";
     break;
 }
-?>" autobuffer controls></video>
+?>" autoplay autobuffer controls></video>
 	</div>
     </body>
 </html>

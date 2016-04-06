@@ -52,6 +52,7 @@ body {
 
 video {
 	background: #252525;
+	max-height: 90%;
 }
 
 #flex-container {
