@@ -28,7 +28,7 @@ body {
 
 .slidedown {
 	animation-name: slidedn;
-  	animation-duration: 1s;
+  	animation-duration: .6s;
   	animation-timing-function: ease-in-out;
    	animation-fill-mode: forwards;
    	display: block;
@@ -37,7 +37,7 @@ body {
 }
 @keyframes slidedn {
   0%  { transform: translate(0, -5vh); opacity:0; }
-  /*50% { transform: translate(-25vw, 0); opacity:0; }*/
+  /*80% { transform: translate(0, 1vh); opacity:0; }*/
   100% { transform: translate(0, 0); opacity:1; }
 }
 
