@@ -11,7 +11,7 @@
         <script src="js/scripts.js"></script>
     </head>
     <body>
-    <div id="logo"><img src="images/swlogo.svg"></div>
+    <div id="logo"><img src="images/swlogo.png" style="height:48px;"></div>
     <div id="menu">
     	<a href="?video=alleyes">All Eyes On You</a> /
     	<a href="?video=seeingstars">Seeing Stars</a> /
