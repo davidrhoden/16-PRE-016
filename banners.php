@@ -32,9 +32,9 @@
     	<a href="banners.php">Banners</a> 
     </div>
     <div id="container">
-    	<iframe src="300x250Savings/300x250.html" scrolling="no"></iframe>
+    	<iframe src="GECUSavings300x250.mp4" controls="false" scrolling="no"></iframe>
     	<hr>
-    	<iframe src="300x250Travel/300x250.html" scrolling="no"></iframe>
+    	<iframe src="GECUTravel300x250.mp4" controls="false" scrolling="no"></iframe>
     </div>
         <script src="js/scripts.js"></script>
     </body>
