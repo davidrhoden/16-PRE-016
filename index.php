@@ -7,10 +7,12 @@
         <title>Sanders\Wingo Video Samples</title>
         <link rel="stylesheet" href="css/style.css">
         <link href='https://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="js/scripts.js"></script>
     </head>
     <body>
+    <div id="menu_button">MENU</div>
     <div id="logo"><img src="images/swlogo.png" style="height:48px;"></div>
     <div id="menu">
     	<a href="?video=alleyes">All Eyes On You</a> /
@@ -27,6 +29,7 @@
     	<a href="?video=holidaycard">The Holiday Card</a> /
     	<a href="?video=vacation">Vacation</a> /
     	<a href="?video=youngguru">Young Guru</a> /
+        <a href="banners">Banners</a>
     </div>
 
     <div id="flex-container">
@@ -50,7 +53,7 @@ switch ($i) {
         echo "dancehall.mov";
         break;
     case "mortgage":
-        echo "GECUMortgageEn.mov";
+        echo "GECUMortgageEn-LowRes.mov";
         break;
     case "grad":
         echo "Grad.mov";
