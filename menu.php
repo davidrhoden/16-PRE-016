@@ -5,8 +5,8 @@
         <a href="innovatorsbanner.php">The Innovators</a> /
     	<a href="thcbannersflight.php">Barnstorm</a> /
     	<a href="thcbannersdancehall.php">Dance Hall</a> /
-        <a href="thcbannersmission.php">Mission</a> /
-        <a href="thcbannersbandits.php">Bandits</a> /
+        <a href="index.php?video=mission">Mission</a> /
+        <a href="index.php?video=bandits">Bandits</a> /
     	<a href="index.php?video=mortgage">GECU Mortgages</a> /
     	<a href="index.php?video=grad">Grad</a> /
     	<a href="index.php?video=mission">Mission</a> /
