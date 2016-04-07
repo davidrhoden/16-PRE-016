@@ -29,7 +29,7 @@
     	<a href="?video=holidaycard">The Holiday Card</a> /
     	<a href="?video=vacation">Vacation</a> /
     	<a href="?video=youngguru">Young Guru</a> /
-        <a href="banners">Banners</a>
+        <a href="banners.php">Banners</a>
     </div>
 
     <div id="flex-container">
