@@ -34,10 +34,10 @@ switch ($i) {
         echo "ATT_Stronger_1280×720.mov";
         break;
     case "barnstorm":
-        echo "barnstorm.mov";
+        echo "BARNSTORM.mov";
         break;
     case "dancehall":
-        echo "dancehall.mov";
+        echo "DANCEHALL.mov";
         break;
     case "mortgage":
         echo "GECUMortgageEn-LowRes.mov";
@@ -48,7 +48,7 @@ switch ($i) {
     case "mission":
         echo "mission.mov";
         break;
-        case "bandits":
+    case "bandits":
         echo "bandits.mov";
         break;
     case "summerdrives":
