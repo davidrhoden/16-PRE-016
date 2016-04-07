@@ -5,7 +5,7 @@
     	<a href="thcbannersflight.php">Barnstorm</a> /
         <a href="innovatorsbanner.php">The Innovators</a> /
     	<a href="thcbannersdancehall.php">Dance Hall</a> /
-    	<a href="index.phpvideo=mortgage">GECU Mortgages</a> /
+    	<a href="index.php?video=mortgage">GECU Mortgages</a> /
     	<a href="index.php?video=grad">Grad</a> /
     	<a href="index.php?video=mission">Mission</a> /
     	<a href="index.php?video=summerdrives">Summer Drives</a> /
