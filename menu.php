@@ -10,7 +10,8 @@
     	<a href="index.php?video=grad">Grad</a> /
     	<a href="index.php?video=mission">Mission</a> /
     	<a href="index.php?video=summerdrives">Summer Drives</a> /
-    	<a href="index.php?video=chihuahua">Chihuahua</a> /
+    	<a href="index.php?video=chihuahua">Chihuahua Video</a> /
+        <a href="banner_chihuahua.php">Chihuahua Banner</a> /
     	<a href="index.php?video=climber">Climber</a> /
     	<a href="index.php?video=holidaycard">The Holiday Card</a> /
     	<a href="index.php?video=vacation">Vacation</a> /
