@@ -14,23 +14,7 @@
     <body>
     <div id="menu_button">MENU</div>
     <div id="logo"><img src="images/swlogo.png" style="height:48px;"></div>
-    <div id="menu">
-    	<a href="?video=alleyes">All Eyes On You</a> /
-    	<a href="?video=seeingstars">Seeing Stars</a> /
-    	<a href="?video=stronger">Stronger</a> /
-    	<a href="?video=barnstorm">Barnstorm</a> /
-    	<a href="?video=dancehall">Dance Hall</a> /
-    	<a href="?video=mortgage">GECU Mortgages</a> /
-    	<a href="?video=grad">Grad</a> /
-    	<a href="?video=mission">Mission</a> /
-    	<a href="?video=summerdrives">Summer Drives</a> /
-    	<a href="?video=chihuahua">Chihuahua</a> /
-    	<a href="?video=climber">Climber</a> /
-    	<a href="?video=holidaycard">The Holiday Card</a> /
-    	<a href="?video=vacation">Vacation</a> /
-    	<a href="?video=youngguru">Young Guru</a> /
-        <a href="banners.php">Banners</a>
-    </div>
+    <?php include 'menu.php'; ?>
 
     <div id="flex-container">
     <video src="<?php 
@@ -39,6 +23,9 @@ $i = $_GET["video"];
 switch ($i) {
     case "alleyes":
         echo "AT_T_All_Eyes_on_You_30_070615.mov";
+        break;
+    case "knowyourballs":
+        echo "TCF_KnowYourBalls_34_033116.mp4";
         break;
     case "seeingstars":
         echo "ATT_SeeingStars_30.mp4";
@@ -80,7 +67,7 @@ switch ($i) {
         echo "YoungGuruTV.mov";
         break;
     default:
-        echo "AT_T_All_Eyes_on_You_30_070615.mov";
+        echo "TCF_KnowYourBalls_34_033116.mp4";
     break;
 }
 ?>" autoplay autobuffer controls></video>

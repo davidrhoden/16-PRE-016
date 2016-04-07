@@ -4,7 +4,6 @@ body {
 }
 
 iframe {
-	background: #121825;
 	border: 0;
 	display: block;
 	margin: 0;
@@ -19,8 +18,27 @@ iframe {
 	margin: 50px auto;
 }
 
+#container.thc{
+	width: 728px;
+	margin: 50px auto;
+}
+
+#container.thc iframe {
+	width: 728px;
+	height: 315px;
+}
+
+#container.innovators{
+	width: 970px;
+	margin: 50px auto;
+}
+
+#container.innovators iframe {
+	width: 970px;
+	height: 443px;
+}
+
 #logo {
-	cursor: pointer;
 	position: absolute;
 	right:10px;
 	top: 10px;

@@ -29,7 +29,7 @@
     	<a href="index.php?video=holidaycard">The Holiday Card</a> /
     	<a href="index.php?video=vacation">Vacation</a> /
     	<a href="index.php?video=youngguru">Young Guru</a> /
-    	<a href="banners.php">Banners</a> 
+    	<a href="banners.php">GECU Banners</a> 
     </div>
     <div id="container">
     	<iframe src="GECUSavings300x250.mp4" controls="false" scrolling="no"></iframe>
