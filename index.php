@@ -43,7 +43,7 @@ switch ($i) {
         echo "GECUMortgageEn-LowRes.mov";
         break;
     case "grad":
-        echo "Grad.mov";
+        echo "Grad_LR.mov";
         break;
     case "mission":
         echo "mission.mov";
@@ -64,7 +64,7 @@ switch ($i) {
         echo "the_holiday_card_120715-H264.mov";
         break;
     case "vacation":
-        echo "vacation.mov";
+        echo "vacation_LR.mov";
         break;
     case "youngguru":
         echo "YoungGuruTV.mov";
