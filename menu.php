@@ -4,7 +4,7 @@
     	<a href="index.php?video=stronger">Stronger</a> /
     	<a href="thcbannersflight.php">Barnstorm</a> /
         <a href="innovatorsbanner.php">The Innovators</a> /
-    	<a href="index.phpvideo=dancehall">Dance Hall</a> /
+    	<a href="thcbannersdancehall.php">Dance Hall</a> /
     	<a href="index.phpvideo=mortgage">GECU Mortgages</a> /
     	<a href="index.php?video=grad">Grad</a> /
     	<a href="index.php?video=mission">Mission</a> /
