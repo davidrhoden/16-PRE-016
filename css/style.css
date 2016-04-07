@@ -28,6 +28,11 @@ iframe {
 	height: 315px;
 }
 
+#container.chihuahua{
+	width: 120px;
+	margin: 50px auto;
+}
+
 #container.innovators{
 	width: 970px;
 	margin: 50px auto;
