@@ -18,6 +18,9 @@
 	<a href="index.php?video=youngguru">Young Guru</a> /
     <a href="index.php?video=loveyourballs">Testicular Cancer Foundation</a> /
     <a href="index.php?video=drscholls">Dr. Scholl's</a> /
-	<a href="banners.php">GECU Banners</a>
+	<a href="banners.php">GECU Banners</a> /
+    <a href="index.php?audio=chihuahuabaseball">Chihuahua Baseball Radio</a> /
+    <a href="index.php?audio=backtoschoolradio">Back To School Radio</a> /
+    <a href="index.php?audio=gururadio">Young Guru Radio</a> /
 </div>
 
