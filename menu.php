@@ -17,6 +17,7 @@
 	<a href="index.php?video=vacation">Vacation</a> /
 	<a href="index.php?video=youngguru">Young Guru</a> /
     <a href="index.php?video=loveyourballs">Testicular Cancer Foundation</a> /
+    <a href="index.php?video=drscholls">Dr. Scholl's</a> /
 	<a href="banners.php">GECU Banners</a>
 </div>
 

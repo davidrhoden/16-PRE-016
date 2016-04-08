@@ -48,6 +48,9 @@ switch ($i) {
     case "mission":
         echo "mission.mov";
         break;
+    case "drscholls":
+        echo "DrSchollsMassager.mov";
+        break;
     case "bandits":
         echo "bandits.mov";
         break;
